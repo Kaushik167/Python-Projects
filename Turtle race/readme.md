@@ -36,7 +36,7 @@ Multiple turtles race across the screen, moving forward by random amounts each s
 ---
 
 
-## 🧡 Credits
+## 📜 Credits
 
 - **Video Credits:** [Python Beginner Project Tutorial - Turtle Racing! by Tech with Tim](https://www.youtube.com/watch?v=gQP0geNsO4A)  
 - **README file:** Done with the help of ChatGPT 🤖  
