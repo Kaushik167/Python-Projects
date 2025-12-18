@@ -7,17 +7,17 @@ Each project includes its own detailed README with instructions, screenshots, an
 
 ## 🏁 Projects
 
-### 1. [Python Turtle Racing Game](Turtle-race/readme.md)
+### 1. [Python Turtle Racing Game](Turtle%20race/readme.md)
 - An interactive racing game using Python's `turtle` module.  
 - Multiple turtles race across the screen, moving forward by random amounts.  
 - The first turtle to cross the finish line is announced as the winner in the console.  
-- [View full project details](Turtle race/readme.md) 
+- [View full project details](Turtle%20race/readme.md) 
 
-### 2. [Scrolling Shooter Game](Scrolling-shooter-game/README.md)
+### 2. [Scrolling Shooter Game](Scrolling%20shooter%20game/README.md)
 - A beginner-friendly Python game created by following a Tech With Tim tutorial.  
 - Demonstrates game loops, user input handling, and basic game logic.  
 - Interactive gameplay with simple graphics and visual feedback.  
-- [View full project details](Scrolling-shooter-game/README.md)
+- [View full project details](Scrolling%20shooter%20game/README.md)
 
 ---
 
