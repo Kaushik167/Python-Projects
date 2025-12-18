@@ -25,6 +25,17 @@ Multiple turtles race across the screen, moving forward by random amounts each s
 
 ---
 
+## 🖼 Screenshots
+
+**Game Window:**  
+![Game Window](screenshot_gamewindow.png)  
+
+**Terminal Output:**  
+![Terminal Output](screenshot_terminal.png)  
+
+---
+
+
 ## 🧡 Credits
 
 - **Video Credits:** [Python Beginner Project Tutorial - Turtle Racing! by Tech with Tim](https://www.youtube.com/watch?v=gQP0geNsO4A)  
