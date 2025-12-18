@@ -1,6 +1,5 @@
 # 🐢 Python Turtle Racing Game
 
-![Turtle Racing Placeholder]
 *A fun and interactive Python Turtle Racing game built with the standard Python `turtle` module.*
 
 Multiple turtles race across the screen, moving forward by random amounts each step. The first turtle to cross the finish line wins! 🏁  
